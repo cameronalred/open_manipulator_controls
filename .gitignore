@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+.vscode/c_cpp_properties.json
+.vscode/settings.json
+open_manipulator_controllers/.vscode/c_cpp_properties.json
+open_manipulator_controllers/.vscode/settings.json
